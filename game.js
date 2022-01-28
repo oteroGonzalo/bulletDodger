@@ -282,6 +282,15 @@ const Game = {
       this.width / 2 - 30,
       this.height / 2 + 80
     );
+    
+    this.ctx.font = "25px MonoSpace";
+    this.ctx.textAlign = "center";
+    this.ctx.fillStyle = "#C73DFF";
+    this.ctx.fillText(
+      "Click to restart again",
+      this.width / 2 - 30,
+      this.height / 2 + 140
+    );
 
     this.ctx.font = "15px MonoSpace";
     this.ctx.textAlign = "center";
