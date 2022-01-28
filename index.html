@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="font-src 'self' data:; img-src 'self' data:; default-src 'self' http://121.0.0:3000/"
+    />
+    <title>Document</title>
+
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        position: relative;
+      }
+    </style>
+  </head>
+
+  <body>
+    <audio muted id="bombs">
+  <source src="./Sounds/explosionCrunch_002.ogg">
+
+     </audio>
+
+    </audio>
+    <canvas id="canvas" width="700" height="500"></canvas>
+    <script src="./background.js"></script>
+    <script src="./PowerUp.js"></script>
+    <script src="./belowEnemies.js"></script>
+    <script src="./lateralenemies.js"></script>
+    <script src="./enemies.js"></script>
+    <script src="./player.js"></script>
+    <script src="./game.js"></script>
+    <script src="./index.js"></script>
+  </body>
+</html>
