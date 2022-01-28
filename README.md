@@ -1,4 +1,4 @@
-# Welcome to
+# Welcome to Space Dodger
 
 During the cosmic war in the Pleiades, your colleagues have been defeated or got lost in space.
 Now you find yourself struggling to get back home, where some unknown enemies don't really like your presence here...
