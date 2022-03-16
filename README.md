@@ -1,3 +1,8 @@
+Videogame developed with @stephlamas during the web development Ironhack Bootcamp. 
+
+Developed using HTML5 Canvas technology, this game was a great opportunity to deepen our knowledge of JavaScript.
+
+
 # Welcome to Space Dodger
 
 During the cosmic war in the Pleiades, your colleagues have been defeated or got lost in space.
